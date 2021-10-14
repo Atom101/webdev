@@ -1,5 +1,9 @@
 html, body{
    display: flex;
    margin: 0px;
+<<<<<<< HEAD
    font-family: Georgia;
+=======
+   font-family: 'Times New Roman', Times, serif;
+>>>>>>> aac2a64e2028f16740571e9dc2c75cd7ff4b64b2
 }
